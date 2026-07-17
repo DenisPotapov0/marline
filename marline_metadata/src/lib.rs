@@ -1,3 +1,6 @@
+pub mod fp_table;
+pub mod sf_table;
+
 /// Number of backup version
 pub type Version = u64;
 
